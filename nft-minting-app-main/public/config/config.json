@@ -2,7 +2,7 @@
   "CONTRACT_ADDRESS": "0x40abbae459d23362293b54e73500a2f768b80bfa",
   "SCAN_LINK": "https://ropsten.etherscan.io/address/0x40abbae459d23362293b54e73500a2f768b80bfa",
   "NETWORK": {
-    "NAME": "Ropsten",
+    "NAME": "Ethereum",
     "SYMBOL": "ETH",
     "ID": 137
   },
