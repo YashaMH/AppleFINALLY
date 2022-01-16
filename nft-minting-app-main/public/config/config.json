@@ -1,9 +1,9 @@
 {
-  "CONTRACT_ADDRESS": "0x45e5a26254d5d52ff2ee1c4b501b593ff748e727",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x45e5a26254d5d52ff2ee1c4b501b593ff748e727",
+  "CONTRACT_ADDRESS": "0x40abbae459d23362293b54e73500a2f768b80bfa",
+  "SCAN_LINK": "https://ropsten.etherscan.io/tx/0x0390f375e96afa44acf1dbde326e7d4739bbf07848f928f0d37da1e236f175d3",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Ethereum",
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
     "ID": 137
   },
   "NFT_NAME": "Apple Artifacts",
